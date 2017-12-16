@@ -8,6 +8,8 @@ This project cannot be considered in any way as trading advice.
 
 Use it at your own risks and be careful with your money ;)
 
+Fork from https://github.com/aloysius-pgast/crypto-exchanges-gateway with plans to customize for own use
+
 ## Faq
 
 * Does it support real-time data ?
@@ -282,8 +284,4 @@ This project was made possible thanks to following projects :
 
 This project is a work in progress. If you find it useful, you might consider a little donation ;)
 
-BTC: `163Bu8qMSDoHc1sCatcnyZcpm38Z6PWf6E`
 
-ETH: `0xDEBBEEB9624449D7f2c87497F21722b1731D42a8`
-
-NEO/GAS: `AaQ5xJt4v8GunVchTJXur8WtM8ksprnxRZ`
